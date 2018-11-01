@@ -1,7 +1,7 @@
 1.) Does wealth/income have correlation with chronic illness in a region? (Graph by region)
-
+	
 2.) Is there a correlation between certain demographics and certain chronic conditions?
+	-mortality
+	-prevalence
 
 3.) What have certain chronic conditions looked like over the decade of data gathered?
-
-4.) Mapping out chronic conditions throughout the united states.
