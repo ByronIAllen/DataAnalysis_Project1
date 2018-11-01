@@ -1,0 +1,18 @@
+Measure Definitions
+Number = The measured or estimated number of people who had an attribute or disease during a specific year.
+
+Prevalence = The measured or estimated percentage of people -- weighted to population characteristics – with an attribute or disease during a specific year.
+
+Age-adjusted Prevalence = Prevalence (see above) standardized to the age distribution of a specific population, usually the U.S. 2000 standard population.
+
+Crude Rate = The measured number of deaths, cases of conditions, diseases or hospitalizations during a specific year – specified as rates per 1,000, per 10,000, per 100,000 or rates per 1,000,000 persons.
+
+Age-adjusted Rate = Crude rate (see above) standardized to the age distribution of a specific population, usually the U.S. 2000 standard population.
+
+Mean = The measured or estimated mean (average or central value of a discrete set of numbers)—weighted to the population characteristics for an attribute or disease during a specific year.
+
+Adjusted Mean = Mean (see above) standardized to the age distribution of a specific population, usually the U.S. 2000 standard population.
+
+Packs Sold per Capita = Packs sold per capita per year.
+
+CI = 95% Confidence Interval.
